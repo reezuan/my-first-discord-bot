@@ -1,0 +1,16 @@
+{
+  "name": "my-first-discord-bot",
+  "version": "1.0.0",
+  "description": "My first ever Discord bot. It's crap. Don't say I didn't warn you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
